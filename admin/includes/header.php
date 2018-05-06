@@ -58,7 +58,7 @@ if (!isset($_SESSION['uid'])) {
                         <a href="change_pass.php"><i class="fa fa-fw fa-gear"></i> Đổi mật khẩu</a>
                     </li>
                     <li>
-                        <a href="http://localhost/ltw" target="_blank"><i class="fa fa-fw fa-shopping-cart"></i>Trang chủ</a>
+                        <a href="../index.php" target="_blank"><i class="fa fa-fw fa-shopping-cart"></i>Trang chủ</a>
                     </li>
                     <li class="divider"></li>
                     <li>
